@@ -33,10 +33,7 @@ The prepatation and cleaning was made using Dataiku in order to produce the fina
       Youngsters (22 to 27),
       Confirmed (28 to 33),
       Veterans (from 33 upwards)
-  - Positions was grouped in three categories
-  =>  Strikers,
-      Defenders,
-      Midfielders,
+
 
 2. EDA
 
