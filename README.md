@@ -37,11 +37,11 @@ The prepatation and cleaning was made using Dataiku in order to produce the fina
 
 2. EDA
 
-Exploratory Data Analysis was done in the notebook *aaa.ipynb*
+Exploratory Data Analysis was done in the notebook *EDA.ipynb*
 
 3. Player Rating
 
-The notebook *zzzz.ipynb* contains :
+The notebook *players_ratings.ipynb* contains :
 
 - The detailed steps from features transformation to the building of the ratings and the computing of weighed average
 
