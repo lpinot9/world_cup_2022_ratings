@@ -43,6 +43,6 @@ Exploratory Data Analysis was done in the notebook *EDA.ipynb*
 
 The notebook *players_ratings.ipynb* contains :
 
-- The detailed steps from features transformation to the building of the ratings and the computing of weighed average
+- The detailed steps to build of the ratings and the computing of weighed average
 
-- The visualization of top performers by aggregated positions
+- Visualization based on these gradings
